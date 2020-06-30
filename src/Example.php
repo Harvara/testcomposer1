@@ -1,6 +1,6 @@
 <?php
 
-	namespace test1
+	namespace ExampleClass;
 
 class Expample{
 
