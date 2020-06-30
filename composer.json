@@ -6,5 +6,11 @@
             "email": "hart.hunter76@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "test1\\" : "srv"
+        }
+    }
+
 }
