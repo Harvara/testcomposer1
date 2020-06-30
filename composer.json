@@ -1,0 +1,10 @@
+{
+    "name": "henry/testcomposer1",
+    "authors": [
+        {
+            "name": "Henry Navara",
+            "email": "hart.hunter76@gmail.com"
+        }
+    ],
+    "require": {}
+}
