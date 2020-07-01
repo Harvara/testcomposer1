@@ -1,6 +1,6 @@
 {
     "name": "henry/testcomposer1",
-    "type": "git",
+    "type": "my-repo",
     "authors": [
         {
             "name": "Henry Navara",
