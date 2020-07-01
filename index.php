@@ -2,10 +2,10 @@
 
 require "vendor/autoload.php";
 
-use ExampleClass\Expample;
+use ExampleClass\Example;
 
 echo "hllo";
 
-$test = new Expample();
+$test = new Example();
 
 $test->hello();

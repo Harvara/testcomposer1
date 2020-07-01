@@ -2,7 +2,7 @@
 
 	namespace ExampleClass;
 
-class Expample{
+class Example{
 
 	public function hello(){
 		echo "hello";
