@@ -1,5 +1,6 @@
 {
     "name": "henry/testcomposer1",
+    "type": "git",
     "authors": [
         {
             "name": "Henry Navara",
@@ -14,5 +15,4 @@
             "ExampleClass\\" : "src/Example"
         }
     }
-
 }
